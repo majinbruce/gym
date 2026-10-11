@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 567">
+  <rect width="850" height="567" fill="#f5f3ee"/>
+  <g fill="none" stroke="#16202e" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="455" y1="140" x2="455" y2="520" stroke="#b9b3a6" stroke-width="8" stroke-dasharray="18 18"/>
+    <path d="M300 540 C300 440 360 410 430 410 C500 410 560 440 560 540" fill="#16202e"/>
+    <line x1="430" y1="410" x2="480" y2="320" stroke-width="56"/>
+    <circle cx="505" cy="235" r="92" fill="#16202e"/>
+    <polygon points="592,222 632,258 590,266" fill="#16202e" stroke-width="8"/>
+    <text x="425" y="80" text-anchor="middle" font-family="sans-serif" font-size="46" font-weight="700" fill="#16202e" stroke="none">Start: sit tall</text>
+  </g>
+</svg>
