@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 567">
+  <rect width="850" height="567" fill="#f5f3ee"/>
+  <g fill="none" stroke="#16202e" stroke-width="22" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="90" y1="452" x2="760" y2="452" stroke="#b9b3a6" stroke-width="10"/>
+    <circle cx="612" cy="198" r="36" fill="#16202e"/>
+    <line x1="290" y1="262" x2="550" y2="262"/>
+    <line x1="550" y1="262" x2="550" y2="436"/>
+    <polyline points="290,262 290,436 170,436"/>
+    <text x="425" y="90" text-anchor="middle" font-family="sans-serif" font-size="46" font-weight="700" fill="#16202e" stroke="none">Start: hands and knees</text>
+  </g>
+</svg>
